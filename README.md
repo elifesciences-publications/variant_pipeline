@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from McCrone et al., "Stochastic processes constrain the within and between host evolution of influenza virus". eLife, 2018. http://dx.doi.org/10.7554/eLife.35962
+
+
 # Lauring Variant Pipeline
 
 Nominates candidate variants by comparing the sequences in a test sample to those found in a plasmid control.
